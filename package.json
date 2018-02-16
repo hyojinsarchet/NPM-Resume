@@ -1,5 +1,5 @@
 {
-  "name": "hyojin-resume",
+  "name": "hyojinsarchet",
   "version": "1.0.0",
   "description": "It's a resume.",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "resume": "./index.js"
   },
   "keywords": [
-    "resume"
+    "resume",
     "hyojin"
   ],
   "author": "",
